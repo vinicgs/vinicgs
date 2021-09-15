@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?username=vinicgs)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicgs)]
+
 
 
 <!--
