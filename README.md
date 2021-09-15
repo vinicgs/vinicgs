@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicgs&theme=dark&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicgs&theme=ocean_dark&show_icons=true)]
 
 
 <!--
