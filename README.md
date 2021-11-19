@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/vinicgs">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vinicgs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="20em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&langs_count=5&theme=gotham"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&langs_count=5&theme=gotham"/>
 </div>
   
   
