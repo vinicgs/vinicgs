@@ -1,8 +1,7 @@
 ### Hi there 👋
  <div>
-  <a href="https://github.com/vinicgs">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vinicgs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&langs_count=5&theme=gotham"/>
+ ## 👋 Hello! Welcome to my Github profile.
+### My name is SeuNomeAqui and my nickname
 </div>
   
   
