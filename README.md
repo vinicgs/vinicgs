@@ -3,7 +3,7 @@
  ### My name is Vinicius 
 
  🙈	🙉	🙊 
-<div>
+
  <!--
  Here are some ideas to get you started:
 
@@ -28,7 +28,6 @@
 
 
  </div>
-  </div>
 
   ### What im studying
  <div>
