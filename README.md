@@ -1,15 +1,15 @@
 ### Hi there 👋
  <div>
  ## 👋 Hello! Welcome to my Github profile.
-### My name is SeuNomeAqui and my nickname
+ ### My name is Vinicius 
 </div>
   
   
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... RecodePro 2021
-- 🌱 I’m currently learning ... Java, Javascript
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
