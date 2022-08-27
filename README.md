@@ -1,7 +1,7 @@
-<div>
+
  ## 👋 Hello! Welcome to my Github profile.
  ### My name is Vinicius 
-</div>
+
  🙈	🙉	🙊 
   
 <!--
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/--vinicius--castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&layout=compact)](https://github.com/vinicgs/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&theme=dark&show_icons=true&layout=compact)](https://github.com/vinicgs/github-readme-stats)
