@@ -1,12 +1,10 @@
 
  ## 👋 Hello! Welcome to my Github profile.
- ### My name is Vinicius 
 
  🙈	🙉	🙊 
 
  <!--
  Here are some ideas to get you started:
-
  - 🔭 I’m currently working on ... 
  - 🌱 I’m currently learning ...
  - 👯 I’m looking to collaborate on ... 
@@ -17,6 +15,7 @@
  - ⚡ Fun fact: ...
  -->
 
+<div>
   ### Technology
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -25,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-
-
  </div>
 
   ### What im studying
@@ -34,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"width="40" height="40" />
-  </div>
+ </div>
 
 
  ### Contatos:
@@ -47,3 +44,5 @@
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&theme=dark&show_icons=true)](https://github.com/vinicgs/github-readme-stats)
+ 
+ </div>
