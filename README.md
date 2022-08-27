@@ -16,6 +16,7 @@
  -->
 
 <div>
+ <div>
   ### Technology
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -42,7 +43,7 @@
  <a href="https://www.linkedin.com/in/--vinicius--castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
 
-
+ <div>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicgs&theme=dark&show_icons=true)](https://github.com/vinicgs/github-readme-stats)
  
  </div>
