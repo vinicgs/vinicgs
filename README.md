@@ -1,22 +1,15 @@
 
- ## 👋 Hello! Welcome to my Github profile.
+ ### 👋 Hello! Welcome to my Github profile.
 
+Hi! I'm Vinicius Castro
+I'm a software developer and enthusiast about technology.
 
- <!--
- Here are some ideas to get you started:
- - 🔭 I’m currently working on ... 
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ... 
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ... 
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...
- -->
+What I'm working on
+Currently, I'm focused on improving my skills in front-end and back-end development, always looking for new challenges and projects to work on.
 
 
 
- ### Contatos:
+ ### How to reach me:
  <div>
  <a href="https://instagram.com/vini.cgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!-- <a href="https://www.twitch.tv/vkx0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
